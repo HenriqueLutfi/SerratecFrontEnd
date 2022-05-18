@@ -1,0 +1,18 @@
+header{
+    background-color: gray;
+    text-align: center;
+}
+img{
+    max-width: 20rem;
+    max-height: 20rem;
+}
+
+h1{
+    color: aliceblue;
+}
+
+h2{
+    background-color: rgb(231, 231, 91);
+    color: black;
+    text-align: center;
+}

@@ -1,0 +1,11 @@
+img {
+  max-width: 20%;
+  max-height: 20%;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.row {
+  display: flex; /* coloca as imagens uma ao lado da outra */
+  justify-content: center; /* alinha as imagens no centro da tela */
+}

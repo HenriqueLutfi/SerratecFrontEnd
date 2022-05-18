@@ -1,0 +1,30 @@
+body {
+  margin: 0%;
+}
+
+.superior {
+  width: 100%;
+  text-align: center;
+  background-color: greenyellow;
+}
+
+.inferior {
+  text-align: center;
+  background-color: purple;
+}
+
+.ladoLado {
+  height: 50vh;
+  display: flex;
+  padding: auto;
+  margin: auto;
+}
+
+.ladoLado > div {
+  background-color: gray;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  width: 33.33%;
+  margin: 1rem;
+}

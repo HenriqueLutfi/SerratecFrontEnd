@@ -1,0 +1,30 @@
+body{
+    margin: 0%;
+}
+
+.superior{
+    width: 100%;
+    text-align: center;
+    background-color: greenyellow;
+}
+
+.inferior{
+    text-align: center;
+    background-color: purple;
+}
+
+div.ladoLado{
+    display: flex;
+}
+
+.menu{
+    width: 20%;
+    justify-content: center;
+    background-color: blue;
+}
+
+.conteudo{
+    justify-content: center;
+    width: 80%;
+    background-color: aqua;
+}

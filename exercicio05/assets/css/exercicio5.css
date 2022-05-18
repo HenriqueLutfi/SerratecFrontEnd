@@ -1,0 +1,19 @@
+img {
+  max-width: 10rem;
+  max-height: 10rem;
+  padding: 5px;
+}
+
+header {
+  text-align: center;
+}
+
+div.ladoLado {
+  display: flex;
+}
+
+img.imagemEsquerda{
+  max-width: 10rem;
+  max-height: 10rem;
+  
+}

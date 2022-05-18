@@ -1,0 +1,59 @@
+header {
+  background-color: gray;
+  text-align: center;
+}
+
+footer {
+  background-color: gray;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.rightSide {
+  width: 50%;
+  background-color: green;
+}
+
+.leftSide {
+  width: 50%;
+  background-color: blue;
+}
+
+.upper {
+  display: flex;
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+  background-color: gray;
+}
+
+.upper > div {
+  background-color: #f1f1f1;
+  text-align: center;
+  width: 33.33%;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 3rem;
+}
+
+.lower {
+  display: flex;
+  width: 50%;
+  padding: 1rem;
+  margin: auto;
+  background-color: gray;
+}
+
+.lower > div {
+  background-color: #f1f1f1;
+  text-align: center;
+  width: 100%;
+  margin: 1rem;
+  padding: 1rem;
+  font-size: 3rem;
+}

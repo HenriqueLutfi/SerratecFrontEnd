@@ -1,0 +1,26 @@
+.containerSpaceBetween{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 10rem;
+    margin: auto;
+}
+
+.rightSide{
+    width: 10rem;
+    height: 10rem;
+    background-color: aqua;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 10rem;
+}
+
+.center{
+    width: 10rem;
+    height: 10rem;
+    background-color: aqua;
+}
